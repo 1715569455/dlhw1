@@ -4,3 +4,5 @@
 
 ### Test
 测试需要saved_model文件夹下有保存的模型权重，以及fashion-mnist下有下载的数据集，运行python test.py即可评价模型在测试集上准确率，并且可视化网络参数。
+
+模型权重：https://drive.google.com/file/d/1CzOmuOQXNUZ33J-NYmALXhxCkPRVec7_/view?usp=drive_link
